@@ -1,6 +1,6 @@
-# Mythic-Project Governance SDK
+# SPL Governance IDL SDK
 
-The **Governance SDK** is a TypeScript-based library enabling developers to create, manage, and interact with decentralized governance systems, specifically designed for Realms DAO on the Solana blockchain. It simplifies building governance applications by abstracting low-level blockchain operations into intuitive APIs.
+The **Governance SDK** is a TypeScript-based library enabling developers to create, manage, and interact with the SPL Governance program on the Solana blockchain. It simplifies building governance applications by abstracting low-level blockchain operations into intuitive APIs.
 
 ---
 
@@ -79,7 +79,7 @@ npm test
 
 ## **Usage**
 
-This SDK provides an intuitive API to interact with Solana-based governance systems. Import the SDK and use the provided `GovernanceClient` for all operations, including creating proposals, casting votes, and initializing governance configurations.
+This SDK provides an intuitive API to interact with the SPL Governance program. Import the SDK and use the provided `SplGovernance` client for all operations, including creating proposals, casting votes, and initializing governance configurations.
 
 ---
 
